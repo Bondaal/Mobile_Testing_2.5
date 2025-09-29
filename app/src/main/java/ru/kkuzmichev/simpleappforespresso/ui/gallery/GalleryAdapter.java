@@ -1,4 +1,4 @@
-package ru.kkuzmichev.simpleappforespresso.ui.gallery;
+package ru.bondareva.simpleappforespresso.ui.gallery;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
 
-import ru.kkuzmichev.simpleappforespresso.R;
+import ru.bondareva.simpleappforespresso.R;
 
 
 public class GalleryAdapter extends RecyclerView.Adapter<GalleryAdapter.ViewHolder> {
